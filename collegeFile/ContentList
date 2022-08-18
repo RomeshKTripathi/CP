@@ -1,0 +1,27 @@
+1. WAP to find number is prime or not.
+2. WAP to find prime numbers from 1 to 100
+3. WAP to check the number is Palindrome or not.
+4. WAP to check the number is Armstrong or not.
+5. WAP to sum of digits of a given number.
+6. WAP to multiply two matrics.
+7. WAP to add two matrics.
+8. WAP to calculate factorial of a number using Recursion.
+9. WAP to sort an integer Array.
+10. WAP to search an element in Array.
+11. WAP to Print Patterns:
+12.         1          13.      1            14.    *
+            2 2               1 2 3               * * * 
+            3 3 3           1 2 3 4 5           * * * * *   
+            4 4 4 4           1 2 3               * * *
+                                1                   *
+
+15. WAP to show the use of malloc() & calloc().
+16. WAP to copy a text file.
+17. WAP to convert decimal digits in binary.
+18. WAP to print fibbonacci series.
+19. WAP to find minimum & maximum numbers in integer array.
+20. WAP to store and print the details of book.
+21. WAP to Show the use of union.
+22. WAP display a triangle.
+23. WAP to show the example of call by value and call by reference functions.
+24. WAP to swap two variables by using pointers, without using third variable.  
